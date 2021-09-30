@@ -1,6 +1,6 @@
 {
   "name": "random-quote",
-  "homepage": "https://maxdhamax.github.io/quote-generator",
+  "homepage": "https://maxdhamax.github.io/Random-Quote-Generator-React/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
