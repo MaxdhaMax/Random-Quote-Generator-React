@@ -1,0 +1,24 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.Main {
+  background-color: rgb(34, 204, 167);
+  padding-top: 15%;
+  padding-bottom: 24%;
+
+}
+
+.main-content {
+  background-color: white;
+}
+
+.button-new{
+  margin-left: 77%;
+}
+
+.author{
+  margin-left: 75%;
+}
